@@ -176,19 +176,19 @@ Prefab:
     m_Modifications:
     - target: {fileID: 4023035012044668, guid: 05123c519ceb6ea4c950b139d27b0be2, type: 2}
       propertyPath: m_LocalPosition.x
-      value: 0.07
+      value: -0.46
       objectReference: {fileID: 0}
     - target: {fileID: 4023035012044668, guid: 05123c519ceb6ea4c950b139d27b0be2, type: 2}
       propertyPath: m_LocalPosition.y
-      value: 3.3
+      value: 4.67
       objectReference: {fileID: 0}
     - target: {fileID: 4023035012044668, guid: 05123c519ceb6ea4c950b139d27b0be2, type: 2}
       propertyPath: m_LocalPosition.z
-      value: -25.01
+      value: -17.75
       objectReference: {fileID: 0}
     - target: {fileID: 4023035012044668, guid: 05123c519ceb6ea4c950b139d27b0be2, type: 2}
       propertyPath: m_LocalRotation.x
-      value: 0.06810153
+      value: 0.12476796
       objectReference: {fileID: 0}
     - target: {fileID: 4023035012044668, guid: 05123c519ceb6ea4c950b139d27b0be2, type: 2}
       propertyPath: m_LocalRotation.y
@@ -200,7 +200,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 4023035012044668, guid: 05123c519ceb6ea4c950b139d27b0be2, type: 2}
       propertyPath: m_LocalRotation.w
-      value: 0.9976784
+      value: 0.992186
       objectReference: {fileID: 0}
     - target: {fileID: 4023035012044668, guid: 05123c519ceb6ea4c950b139d27b0be2, type: 2}
       propertyPath: m_RootOrder
@@ -212,7 +212,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 4023035012044668, guid: 05123c519ceb6ea4c950b139d27b0be2, type: 2}
       propertyPath: m_LocalEulerAnglesHint.x
-      value: 7.8100004
+      value: 14.335001
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 05123c519ceb6ea4c950b139d27b0be2, type: 2}
@@ -363,7 +363,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 4606801897000466, guid: db905ff29e94e2046a85a9d5c66d9dfa, type: 2}
       propertyPath: m_LocalPosition.y
-      value: 5.29
+      value: 2.92
       objectReference: {fileID: 0}
     - target: {fileID: 4606801897000466, guid: db905ff29e94e2046a85a9d5c66d9dfa, type: 2}
       propertyPath: m_LocalPosition.z
@@ -600,7 +600,7 @@ Rigidbody:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1997300216}
   serializedVersion: 2
-  m_Mass: 1
+  m_Mass: 0.05
   m_Drag: 0
   m_AngularDrag: 0.05
   m_UseGravity: 1
